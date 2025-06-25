@@ -12,7 +12,7 @@ I'm a passionate Software Engineering student with a focus on Web Development an
 ## 📂 Projects
 - [HR Portal System](https://github.com/usman-dev/hr-portal)
 - [Reality Show DB System](https://github.com/usman-dev/reality-show-db)
-- 🎬 Movie Recommendation System
+- [🎬 Movie Recommendation System](https://github.com/usman-dev/Movie-Racomandation-System)
 This project is a complete movie recommendation website developed using PHP, MySQL, HTML, and CSS. The system allows users to explore movies by genre, see recommendations, and view detailed movie information. Admins can manage the movie database via a secure panel. It features:
 
 - Genre-based movie browsing
