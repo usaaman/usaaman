@@ -1,138 +1,120 @@
-<h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">Full-Stack Web Developer | AI Agent Developer | Software Engineering Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%E2%9A%A1;Integrating+AI+agents+%26+chatbots+%F0%9F%A4%96;Freelancing+on+Fiverr+%2F+Upwork+%2F+unjob.ai;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=200&section=header&text=Hi%20There,%20I'm%20Usman%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Agent%20Builder&descAlignY=55&descSize=18" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/usaaman"><img src="https://komarev.com/ghpvc/?username=usaaman&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" /></a>
-  <img src="https://img.shields.io/github/followers/usaaman?label=Followers&style=flat&color=6C63FF" alt="Followers" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+%E2%9A%A1;Integrating+AI+agents+%26+chatbots+%F0%9F%A4%96;BS+Software+Engineering+Student+%F0%9F%8E%93;Always+shipping+something+new+%F0%9F%9A%80" />
 
----
+<img src="https://komarev.com/ghpvc/?username=usaaman&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/usaaman?label=Followers&style=for-the-badge&color=00C6FF&logo=github" />
 
-### 💡 About Me
+</div>
 
-- 🎓 BS Software Engineering student at **Capital University of Science and Technology (CUST)**, Islamabad
+<br>
+
+## 💡 About Me
+
+- 🎓 BS Software Engineering student @ **Capital University of Science and Technology (CUST)**, Islamabad
 - 🚀 Focused on **full-stack web development** and **AI agent development**
-- 🧠 Exploring RAG, tool calling, and ReAct-based AI agents for real client use cases
+- 🧠 Exploring RAG, tool calling & ReAct-based AI agents for real client projects
 - 🎨 Background in **graphic design** and **video editing (CapCut)**
-- 💼 Freelancing on **Fiverr**, **Upwork**, and **unjob.ai**
 - 📫 Open to freelance & collaboration opportunities
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Frontend**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,firebase,php,mysql,cpp,python,vercel,git,github,vscode&theme=dark" />
 
-**Backend & Database**
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<br>
 
-**AI & Deployment**
+## 📂 Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
-
-**Languages & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[🩺 MedCore POS](https://github.com/usaaman/medcore-pos)**
+### 🩺 [MedCore POS](https://github.com/usaaman/medcore-pos)
+Full-stack pharmacy POS system — inventory, sales & admin management with a clean responsive UI.
 
-Full-stack pharmacy point-of-sale system built with React, Firebase, and Tailwind CSS. Handles inventory, sales, and admin management with a clean, responsive UI.
-
-`React` `Firebase` `Tailwind CSS`
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[💬 AI Chat App](https://github.com/usaaman/chatapp)**
+### 💬 [AI Chat App](https://github.com/usaaman/chatapp)
+Real-time AI chat app powered by Groq AI, with Firebase + Cloudinary for media handling.
 
-Real-time AI chat application powered by Groq AI, with React, Firebase, and Cloudinary for media handling. Deployed live on Vercel.
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-`React` `Groq AI` `Firebase` `Cloudinary`
-
-**🔗 [Live Demo](https://chatapp.vercel.app)**
+**🔗 [Live Demo](https://chatapp-omega-ten.vercel.app/)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" colspan="2">
+<td colspan="2" valign="top">
 
-**[🌐 Personal Portfolio + Admin CMS](https://github.com/usaaman/usman-portfolio)**
+### 🌐 [Personal Portfolio + Admin CMS](https://github.com/usaaman/usman-portfolio)
+Full-stack portfolio with a custom `/admin` CMS panel, integrated Groq AI chatbot, Firebase backend & Vercel deployment.
 
-Full-stack personal portfolio with a custom `/admin` CMS panel, an integrated Groq AI chatbot, Firebase backend, and Vercel deployment.
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-`React` `Firebase` `Groq AI` `Vercel`
+**🔗 [Live Demo](https://usman-portfolio-vert-one.vercel.app/)**
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=usaaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaaman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usaaman&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=usaaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=00C6FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usaaman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=usaaman&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00C6FF" />
 
-### 🎯 Goals
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=usaaman&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=00C6FF&point=ffffff" width="95%" />
+
+</div>
+
+<br>
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=usaaman&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br>
+
+## 🎯 Goals
 
 - 🔨 Deliver full-stack web apps & AI agents for freelance clients
 - 🧩 Build deeper AI agent architectures (RAG, tool calling, multi-step reasoning)
 - 🌍 Contribute to open-source projects
-- 📈 Grow a professional freelance brand across Fiverr, Upwork & unjob.ai
+- 📈 Build a professional freelance brand and take on client work
 
----
+<br>
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/YOUR-FIVERR-HANDLE"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<p align="center">✨ Thanks for stopping by! ✨</p>
+<a href="https://www.linkedin.com/in/muhammad-usman-a76984378/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=100&section=footer" width="100%" />
