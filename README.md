@@ -10,61 +10,189 @@
 
 <br><br>
 
-<a href="https://github.com/usaaman">
-<img src="https://img.shields.io/github/followers/usaaman?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117"/>
-</a>
+<a href="https://github.com/usaaman"><img src="https://img.shields.io/github/followers/usaaman?style=for-the-badge&logo=github&color=6C63FF&labelColor=0D1117"/></a>
 <img src="https://komarev.com/ghpvc/?username=usaaman&style=for-the-badge&color=00C6FF"/>
 <img src="https://img.shields.io/badge/Open%20To-Freelance-success?style=for-the-badge"/>
-<a href="https://usman-portfolio-vert-one.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge&logo=vercel"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-usman-a76984378/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+<a href="https://usman-portfolio-vert-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/muhammad-usman-a76984378/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,30"/>
+
+## 💫 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+|  |  |
+|---|---|
+| 🎓 **Education** | BS Software Engineering @ CUST |
+| 📍 **Location** | Pakistan 🇵🇰 |
+| 💼 **Role** | Full Stack Developer & AI Agent Builder |
+| 🌱 **Currently Learning** | AI Agents · RAG · Tool Calling · ReAct |
+| 🤝 **Available For** | Freelance · Remote Work · Collaborations |
+| 💭 **Philosophy** | *Build useful products. Learn every day. Ship fast.* |
+
+**Core Expertise:**
+
+<img src="https://img.shields.io/badge/Frontend_Development-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Backend_Development-00C6FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/AI_Chatbots-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square"/>
+
+<br clear="right"/>
+
+<br>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark"/>
+
+<br><br>
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,php,express,firebase&theme=dark"/>
+
+<br><br>
+
+**Database**
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
+
+<br><br>
+
+**AI & Automation**
+<br>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<br>
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman&theme=dark"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 🤖 AI Expertise
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<div align="center">
 
-```javascript
-const usman = {
-    name: "Muhammad Usman",
-    role: "Full Stack Developer",
-    education: "BS Software Engineering @ CUST",
-    location: "Pakistan 🇵🇰",
-    currentlyLearning: [
-        "AI Agents",
-        "RAG",
-        "Tool Calling",
-        "ReAct",
-        "Advanced React"
-    ],
-    expertise: [
-        "Frontend Development",
-        "Backend Development",
-        "Firebase",
-        "AI Chatbots",
-        "Prompt Engineering"
-    ],
-    availableFor: [
-        "Freelance",
-        "Remote Work",
-        "Collaborations"
-    ],
-    lifePhilosophy:
-        "Build useful products. Learn every day. Ship fast."
-}
-```
+| Skill | Level |
+|:---|:---:|
+| AI Chatbots | ⭐⭐⭐⭐⭐ |
+| Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| Firebase AI Apps | ⭐⭐⭐⭐⭐ |
+| API Integration | ⭐⭐⭐⭐⭐ |
+| AI Agents | ⭐⭐⭐⭐☆ |
+| Tool Calling | ⭐⭐⭐⭐☆ |
+| RAG Systems | ⭐⭐⭐⭐☆ |
+| Automation Workflows | ⭐⭐⭐⭐☆ |
 
-<br clear="right"/>
+</div>
 
 ---
 
-# 📊 GitHub Analytics
+## 💼 Services I Offer
+
+<div align="center">
+
+| 🌐 Development | 🤖 AI Solutions | ⚡ Business |
+|:---|:---|:---|
+| Portfolio Websites | AI Chatbots | Landing Pages |
+| Business Websites | AI Agents | Dashboards |
+| Admin Panels | RAG Systems | CMS Development |
+| Full Stack Apps | API Integrations | Automation |
+| Firebase Apps | Prompt Engineering | Deployment |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🩺 MedCore POS
+
+Full-stack Pharmacy POS System with inventory management, billing, authentication and responsive dashboard.
+
+**Features**
+- Inventory Management
+- Billing System
+- Admin Dashboard
+- Firebase Authentication
+- Responsive UI
+
+**Tech:** React • Firebase • Tailwind CSS
+
+<a href="https://github.com/usaaman/medcore-pos"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/></a>
+
+</td>
+<td width="50%">
+
+### 💬 AI Chat App
+
+Modern AI Chat Application powered by Groq AI with image upload and real-time messaging.
+
+**Features**
+- AI Conversations
+- Image Upload
+- Firebase Storage
+- Cloudinary
+- Responsive Design
+
+**Tech:** React • Groq • Firebase
+
+<a href="https://github.com/usaaman/chatapp"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://chatapp-omega-ten.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel"/></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🌐 Personal Portfolio + AI CMS
+
+Professional portfolio website featuring an Admin CMS, AI chatbot integration and Firebase backend.
+
+**Highlights**
+- Custom Admin Dashboard
+- AI Assistant
+- Dynamic Content Management
+- Responsive Design
+- Firebase Backend
+- Vercel Deployment
+
+**Stack:** React • Firebase • Groq AI • Vercel
+
+<a href="https://github.com/usaaman/usman-portfolio"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://usman-portfolio-vert-one.vercel.app/"><img src="https://img.shields.io/badge/Visit_Website-6C63FF?style=for-the-badge&logo=vercel"/></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -79,7 +207,7 @@ const usman = {
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -89,11 +217,11 @@ const usman = {
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-> **⚠️ Enable this after creating the Snake GitHub Action.**
+> ⚠️ Enable this after creating the Snake GitHub Action.
 
 <img width="100%" src="https://raw.githubusercontent.com/usaaman/usaaman/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -101,7 +229,7 @@ const usman = {
 
 ---
 
-# 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -111,28 +239,22 @@ const usman = {
 
 ---
 
-# 🚀 2026 Developer Roadmap
+## 🗺️ 2026 Roadmap & Goals
 
 <div align="center">
 
 | Quarter | Goal | Status |
-|---------|------|--------|
-| ✅ Q1 | Master React Ecosystem | ✔ Completed |
-| 🚀 Q2 | Build Production Full Stack Apps | ✔ Completed |
-| 🤖 Q3 | Advanced AI Agents & Automation | 🟡 In Progress |
-| 🌍 Q4 | Open Source Contributions | ⏳ Planned |
-| 💼 Q4 | Scale Freelancing Business | ⏳ Planned |
+|:---:|:---|:---:|
+| Q1 | Master React Ecosystem | ✅ Completed |
+| Q2 | Build Production Full Stack Apps | ✅ Completed |
+| Q3 | Advanced AI Agents & Automation | 🟡 In Progress |
+| Q4 | Open Source Contributions | ⏳ Planned |
+| Q4 | Scale Freelancing Business | ⏳ Planned |
 
-</div>
-
----
-
-# 📌 2026 Goals
-
-<div align="center">
+<br>
 
 | 🎯 Goal | Progress |
-|---------|----------|
+|:---|:---|
 | Build 15+ Production Projects | ████████░░ 80% |
 | Complete AI Agent Portfolio | ███████░░░ 70% |
 | Contribute to Open Source | ████░░░░░░ 40% |
@@ -143,42 +265,37 @@ const usman = {
 
 ---
 
-# ⚡ Development Workflow
+## ⚡ My Development Flow
 
-<div align="center">
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🎨 UI / UX Design]
+    B --> C[⚛️ React + Clean Architecture]
+    C --> D[🔥 Firebase Backend]
+    D --> E[🤖 AI Integration]
+    E --> F[🚀 Deployment]
+    F --> G[✨ Great User Experience]
 
-```text
-      💡 Idea
-         │
-         ▼
-   🎨 UI / UX Design
-         │
-         ▼
-⚛ React Development
-         │
-         ▼
-🔥 Firebase Backend
-         │
-         ▼
-🤖 AI Integration
-         │
-         ▼
-🚀 Deployment
+    style A fill:#6C63FF,stroke:#333,color:#fff
+    style B fill:#00C6FF,stroke:#333,color:#000
+    style C fill:#6C63FF,stroke:#333,color:#fff
+    style D fill:#F55036,stroke:#333,color:#fff
+    style E fill:#412991,stroke:#333,color:#fff
+    style F fill:#00C6FF,stroke:#333,color:#000
+    style G fill:#6C63FF,stroke:#333,color:#fff
 ```
-
-</div>
 
 ---
 
-# 💎 What Makes My Projects Different?
+## 💎 What Makes My Projects Different?
 
 <div align="center">
 
-| ✨ Feature | Description |
-|------------|-------------|
+| Feature | Description |
+|:---|:---|
 | 🎯 Client-Focused | Every project solves a real business problem |
 | 📱 Responsive | Optimized for desktop, tablet & mobile |
-| 🤖 AI Integrated | Modern AI features where they add value |
+| 🤖 AI Integrated | Modern AI features where they add real value |
 | ⚡ Performance | Fast loading & clean architecture |
 | 🔒 Secure | Authentication & protected routes |
 | 🎨 Modern UI | Clean, scalable and user-friendly interfaces |
@@ -187,110 +304,49 @@ const usman = {
 
 ---
 
-# 💬 Favorite Quote
-
 <div align="center">
 
-> ### *"Great software isn't just code—it's a solution that people enjoy using."*
+### 💬 *"Great software isn't just code — it's a solution that people enjoy using."*
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,30"/>
-
-</div>
-
-# 🌍 Let's Build Something Amazing Together
+## 🤝 Available For
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Open+for+Freelance+Projects;Building+Modern+Web+Applications;AI+Agents+%26+Automation;Let's+Create+Something+Awesome!" />
-
-</div>
-
----
-
-# 🤝 Available For
-
-<div align="center">
-
-| 💼 Service | ✅ Available |
-|------------|-------------|
-| Business Websites | ✔ |
-| Portfolio Websites | ✔ |
-| AI Chatbots | ✔ |
-| AI Agent Integration | ✔ |
-| Admin Dashboards | ✔ |
-| Firebase Applications | ✔ |
-| Landing Pages | ✔ |
-| Long-Term Collaboration | ✔ |
+| Service | Available |
+|:---|:---:|
+| Business Websites | ✅ |
+| Portfolio Websites | ✅ |
+| AI Chatbots | ✅ |
+| AI Agent Integration | ✅ |
+| Admin Dashboards | ✅ |
+| Firebase Applications | ✅ |
+| Landing Pages | ✅ |
+| Long-Term Collaboration | ✅ |
 
 </div>
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
-<a href="https://usman-portfolio-vert-one.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?style=for-the-badge"/>
-</a>
-<a href="https://github.com/usaaman">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://www.linkedin.com/in/muhammad-usman-a76984378/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://usman-portfolio-vert-one.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6C63FF?style=for-the-badge"/></a>
+<a href="https://github.com/usaaman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/muhammad-usman-a76984378/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+🧠 Building AI-powered web applications &nbsp;•&nbsp; ⚛️ React + Firebase solutions &nbsp;•&nbsp; 🚀 Production-ready freelance delivery
 
 </div>
 
 ---
-
-# 💻 Development Philosophy
-
-<div align="center">
-
-```text
-Clean Architecture
-        │
-        ▼
-Scalable Code
-        │
-        ▼
-Beautiful UI
-        │
-        ▼
-AI Integration
-        │
-        ▼
-Great User Experience
-```
-
-</div>
-
----
-
-# 📈 Current Focus
-
-<div align="center">
-
-🧠 Building AI-powered web applications
-⚛️ Creating scalable React + Firebase solutions
-🚀 Delivering production-ready freelance projects
-🌍 Growing as a Full Stack & AI Developer
-
-</div>
-
----
-
-# 💜 Thanks for Visiting
 
 <div align="center">
 
