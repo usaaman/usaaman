@@ -59,6 +59,217 @@ const usman = {
         "AI Chatbots",
         "Prompt Engineering"
     ],
+    # 🛠️ Tech Arsenal
+
+<div align="center">
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite&theme=dark"/>
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,express,firebase&theme=dark"/>
+</p>
+
+## 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
+</p>
+
+## 🤖 AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+</p>
+
+<img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool_Calling-00C6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=for-the-badge"/>
+
+<br><br>
+
+## 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🤖 AI Expertise
+
+<div align="center">
+
+| 💡 Skill | Level |
+|----------|--------|
+| AI Chatbots | ⭐⭐⭐⭐⭐ |
+| AI Agents | ⭐⭐⭐⭐☆ |
+| Prompt Engineering | ⭐⭐⭐⭐⭐ |
+| Tool Calling | ⭐⭐⭐⭐☆ |
+| RAG Systems | ⭐⭐⭐⭐☆ |
+| Firebase AI Apps | ⭐⭐⭐⭐⭐ |
+| API Integration | ⭐⭐⭐⭐⭐ |
+| Automation Workflows | ⭐⭐⭐⭐☆ |
+
+</div>
+
+---
+
+# 💼 Services I Offer
+
+<div align="center">
+
+| 🌐 Development | 🤖 AI Solutions | ⚡ Business |
+|----------------|----------------|------------|
+| Portfolio Websites | AI Chatbots | Landing Pages |
+| Business Websites | AI Agents | Dashboards |
+| Admin Panels | RAG Systems | CMS Development |
+| Full Stack Apps | API Integrations | Automation |
+| Firebase Apps | Prompt Engineering | Deployment |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🩺 MedCore POS
+
+Full-stack Pharmacy POS System with inventory management, billing, authentication and responsive dashboard.
+
+### ✨ Features
+
+- Inventory Management
+- Billing System
+- Admin Dashboard
+- Firebase Authentication
+- Responsive UI
+
+### ⚙️ Tech
+
+React • Firebase • Tailwind CSS
+
+<p>
+
+<a href="https://github.com/usaaman/medcore-pos">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%">
+
+## 💬 AI Chat App
+
+Modern AI Chat Application powered by Groq AI with image upload and real-time messaging.
+
+### ✨ Features
+
+- AI Conversations
+- Image Upload
+- Firebase Storage
+- Cloudinary
+- Responsive Design
+
+### ⚙️ Tech
+
+React • Groq • Firebase
+
+<p>
+
+<a href="https://github.com/usaaman/chatapp">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://chatapp-omega-ten.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+## 🌐 Personal Portfolio + AI CMS
+
+Professional portfolio website featuring an Admin CMS, AI chatbot integration and Firebase backend.
+
+### 🚀 Highlights
+
+- Custom Admin Dashboard
+- AI Assistant
+- Dynamic Content Management
+- Responsive Design
+- Firebase Backend
+- Vercel Deployment
+
+### ⚙️ Stack
+
+React • Firebase • Groq AI • Vercel
+
+<p>
+
+<a href="https://github.com/usaaman/usman-portfolio">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://usman-portfolio-vert-one.vercel.app/">
+<img src="https://img.shields.io/badge/Visit_Website-6C63FF?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 Currently Building
+
+```text
+██████████████████████░░░░  AI Agent Platform
+
+███████████████████░░░░░░░  SaaS Projects
+
+████████████████████░░░░░░ Full Stack Apps
+
+█████████████████░░░░░░░░░ Open Source
+```
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
 
     availableFor: [
         "Freelance",
