@@ -2,16 +2,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,30&text=Muhammad%20Usman&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Agent%20Builder&descAlignY=58&descSize=18"/>
 
-<img width="120" src="https://github.com/usaaman.png" style="border-radius:50%"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3200&pause=800&color=6C63FF&center=true&vCenter=true&width=720&lines=🚀+Full+Stack+Web+Developer;🤖+AI+Agent+Builder;⚡+React+•+Node.js+•+Firebase;🎓+Software+Engineering+@+CUST"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=3200&pause=800&color=6C63FF&center=true&vCenter=true&width=720&lines=🚀+Full-Stack+Web+Developer;🎓+BS+Software+Engineering+Student+%40+CUST;🤖+AI+Agent+%26+Automation+Developer;💼+Freelance+Web+%26+AI+Solutions+Builder"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=usaaman&style=for-the-badge&color=00C6FF"/>
-<img src="https://img.shields.io/badge/Open%20To-Freelance-success?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/muhammad-usman-a76984378/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
 </div>
 
