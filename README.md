@@ -19,9 +19,9 @@
 
 # 👨‍💻 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 **BS Software Engineering** @ CUST
+- 🎓 **BS Software Engineering** @ 
 - 💼 **Full-Stack Web Developer**
 - 🤖 **AI Agent & Chatbot Builder**
 - 🚀 Passionate about scalable web apps & automation
