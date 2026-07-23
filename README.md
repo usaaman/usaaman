@@ -21,7 +21,7 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 **BS Software Engineering** @ 
+- 🎓 **BS Software Engineering** @ cust
 - 💼 **Full-Stack Web Developer**
 - 🤖 **AI Agent & Chatbot Builder**
 - 🚀 Passionate about scalable web apps & automation
